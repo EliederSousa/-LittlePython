@@ -11,7 +11,7 @@
 #  @brief    Codificação RSA para estudo. Não aceita espaços, nem números, apenas letras.
 ##
 
-# Melhor forma que encontrei, achei no StackOverflow.
+# Melhor forma que encontrei de separar uma string por grupos, achei no StackOverflow.
 def wrap ( texto, tamanho ):
     return [texto[i:i + tamanho] for i in range(0, len(texto), tamanho)]
 
