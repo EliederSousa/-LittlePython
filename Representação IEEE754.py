@@ -8,7 +8,8 @@
 #  
 #  @date     12/09/20
 #  
-#  @brief    Este é um tutorial da aula sobre a representação do número em ponto flutuante pela norma IEEE 754
+#  @brief       Este é um tutorial da aula sobre a representação do número em ponto flutuante pela norma IEEE 754
+#               Agradecimentos ao professor Israel pela paciência.
 ##  
 
 import math
